@@ -11,9 +11,11 @@ var DayTwo = React.createClass({
 	render() {
 		return (
 			<div>
-				<ReactReview />
+				{/* <ReactReview /> */}
+				{/* <CompLifeCycle /> */}
+				<AsyncData />
 			</div>
-		)	
+		)
 	}
 });
 
